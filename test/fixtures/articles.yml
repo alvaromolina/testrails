@@ -1,0 +1,22 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  title: MyString
+  body: MyText
+  category: sports
+  published_at: 2015-06-01 13:21:47
+
+two:
+  id: 2
+  title: MyString
+  body: MyText
+  category: news
+  published_at: 2015-06-01 13:21:47
+
+three:
+  id: 3
+  title: MyString
+  body: MyText
+  category: social
+  published_at: 2015-06-01 13:21:47
